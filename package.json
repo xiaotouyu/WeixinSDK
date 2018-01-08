@@ -12,6 +12,10 @@
     "ecosystem:cordova",
     "cordova-ios"
   ],
+  "repository": {
+"type": "git",
+"url": "git+https://github.com/xiaotouyu/WeixinSDK.git"
+},
   "author": "",
   "license": "ISC"
 }
