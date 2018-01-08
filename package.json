@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-weixinSDK",
+  "name": "cordova-plugin-weixin-test",
   "version": "0.0.1",
   "description": "",
   "cordova": {
@@ -13,8 +13,8 @@
     "cordova-ios"
   ],
   "repository": {
-"type": "git",
-"url": "git+https://github.com/xiaotouyu/WeixinSDK.git"
+  "type": "git",
+  "url": "git+https://github.com/xiaotouyu/WeixinSDK.git"
 },
   "author": "",
   "license": "ISC"
